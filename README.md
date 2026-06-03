@@ -22,7 +22,7 @@ Workbench to extract business insights through structured queries.
 - 891 orders used coupon codes vs 309 without
 
 ## Files
-- ecommerce_queries.sql — All 12 SQL queries with results
+- E-commerce_queries.sql — All 12 SQL queries with results
 
 ## Author
 Aminat Ogunlesi — Data Analysis Intern
